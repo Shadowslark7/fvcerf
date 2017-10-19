@@ -11,11 +11,11 @@
 ## Часть I ##
 ### Основные концепции: ###
  
- * Fast and robust. Быстро и эффективно©®™.
- * Protocols. Только Протоколы, никаких API, RPC и вот этой всей хуйни.
- * No over subscription. Все по-честному и без сюрпризов (другими словами, плачу - и плачу).
- * Don't break laws of physics.
- * 640 kb is enough for everyone -- Bill Gates (who knows really...)
+ 1. Fast and robust. Быстро и эффективно©®™.
+ 2. Protocols. Только Протоколы, никаких API, RPC и вот этой всей хуйни.
+ 3. No over subscription. Все по-честному и без сюрпризов (другими словами, плачу - и плачу).
+ 4. Don't break laws of physics.
+ 5. 640 kb is enough for everyone -- Bill Gates (who knows really...)
 
 ### Motivation ###
 *Нумерация в соответствии с основными концепциями
