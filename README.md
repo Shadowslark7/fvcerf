@@ -34,6 +34,7 @@
 ### Немного терминологии: 0) ###
 
 *There are two hard things in computer science: cache invalidation, naming things -- Phil Karlton
+
 ** And off-by-one errors for C programmers btw.
  
  * Server/Machine (_сервер, машина_) - машина в стойке, которая работает и ~~майнит бит-коины~~ делает что-нибудь полезное.
