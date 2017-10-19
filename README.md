@@ -33,7 +33,7 @@
  
 ### Немного терминологии: 0) ###
 
-There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
  
  * Server/Machine (_сервер, машина_) - машина в стойке, которая работает и ~~майнит бит-коины~~ делает что-нибудь полезное.
  * Log message (_лог, мессага_) - осмысленная единица информации, которую хочется до кого-то доставить.
