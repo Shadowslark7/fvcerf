@@ -1,4 +1,5 @@
-# Logh-Broker©®™ [ləʊh ˈbrəʊkə] whitepaper (туалетная бумага (rus.)) #
+# Logh-Broker©®™ #
+## [ləʊh ˈbrəʊkə] whitepaper (туалетная бумага (rus.)) ##
 
 
 ## Abstract ##
